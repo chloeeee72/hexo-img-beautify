@@ -27,7 +27,7 @@ img_beautify:
 
 ### Usage
 
-    {% img_beautify img_url legend legend %}
+    {% img_beautify img_url legend legend width height %}
 
 #### Usage Option
 
@@ -36,3 +36,5 @@ img_beautify:
 | img_beautify (**required**) | img_beautify  | 'img_beautify' | hexo tag   |
 | img_url (**required**) | none  | string | image url，you can put relative path or link here |
 | legend  | none | string | image legend |
+| width  | 600(px) | number | image width |
+| height  | 600(px) | number | image height |
