@@ -4,6 +4,12 @@ Make your Hexo image prettier
 
 ![npm](https://img.shields.io/npm/v/hexo-img-beautify.svg) ![npm](https://img.shields.io/npm/l/hexo-img-beautify.svg)
 
+## Link
+
+npm: [click to check](https://www.npmjs.com/package/hexo-img-beautify)
+
+github: [click to check](https://www.npmjs.com/package/hexo-img-beautify)
+
 ## How to use
 
 ### Installation
